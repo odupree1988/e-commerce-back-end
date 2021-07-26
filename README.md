@@ -29,7 +29,7 @@ Source the database with 'source db/schema.sql', run 'node seeds' and start the 
 
 ![](src/images/ecommerce001.png)
 ![](src/images/ecommerce002.png)
-c
+
 [Instructional Video](https://drive.google.com/file/d/1bRsJXuyov2gJe2tUsTpAZK1AkBYp7wUa/preview)
 
 
